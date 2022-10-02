@@ -6,7 +6,7 @@
   
 **2.** Склонировать репозиторий
 
-      
+    https://github.com/Kostya5885/Espresso
  
 **3.**  Установить приложение "Мобильный хоспис" на мобильное устройство.
 
@@ -27,10 +27,10 @@
 
 ### **Документация**
 
-[План автоматизации тестирования]()
+[План автоматизации тестирования](https://github.com/Kostya5885/Espresso/blob/master/Plan.md)
 
-[Чек-лист]()
+[Чек-лист](https://github.com/Kostya5885/Espresso/blob/master/Check.xlsx)
 
-[Тест-кейсы]()
+[Тест-кейсы](https://github.com/Kostya5885/Espresso/blob/master/Cases.xlsx)
 
-[Отчёт о проведённом тестировании]()
+[Отчёт о проведённом тестировании](https://github.com/Kostya5885/Espresso/blob/master/Result.md)
